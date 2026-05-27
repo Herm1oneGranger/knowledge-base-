@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+app:
+  rag:
+    default-top-k: 5
+    max-context-chunks: 8
